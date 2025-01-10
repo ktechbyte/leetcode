@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ktechbyte/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
