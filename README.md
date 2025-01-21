@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ktechbyte/leetcode/tree/master/0020-valid-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -71,4 +72,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ktechbyte/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ktechbyte/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
