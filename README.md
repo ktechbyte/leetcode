@@ -32,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/ktechbyte/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String Matching
 |  |
 | ------- |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ktechbyte/leetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
