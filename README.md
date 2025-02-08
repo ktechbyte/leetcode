@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/ktechbyte/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktechbyte/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -125,5 +126,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
