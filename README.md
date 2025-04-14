@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktechbyte/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
@@ -127,6 +128,7 @@
 | [0206-reverse-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
