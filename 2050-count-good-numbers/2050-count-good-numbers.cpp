@@ -1,11 +1,13 @@
 class Solution {
 public:
     int modulo = 1e9 + 7;
-    int powerModulo(long long a, long long b){
+    //a^b mod MAX. It works in \U0001d442(log⁡\U0001d44f) time
+    int powerModulo(long long a, long long b){ 
         if(b == 0) return 1; 
         long long half = powerModulo(a, b/2);
         long long ans = (half * half)  % modulo;
-        if(b % 2 == 1) ans  = (ans * a) % modulo; // if power is odd
+        // if power is odd just multiply number 1 more time
+        if(b % 2 == 1) ans  = (ans * a) % modulo; 
         return ans; 
     }
     int countGoodNumbers(long long n) {
