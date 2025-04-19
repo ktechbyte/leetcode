@@ -2,7 +2,7 @@ class Solution {
 public:
     string helper(int n, string str){
         if(n<=1) return str;
-        string s="";
+        string s;
         for(int i = 0; i<str.size(); i++){
             int count = 1;
             char digit = str[i];
