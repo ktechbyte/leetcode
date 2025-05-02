@@ -56,6 +56,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ktechbyte/leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/ktechbyte/leetcode/tree/master/0782-jewels-and-stones) |
+| [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String Matching
@@ -92,6 +93,7 @@
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
+| [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ktechbyte/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -156,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
