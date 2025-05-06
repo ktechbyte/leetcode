@@ -24,6 +24,7 @@
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktechbyte/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2048-build-array-from-permutation](https://github.com/ktechbyte/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -172,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/ktechbyte/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
