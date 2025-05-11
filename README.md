@@ -21,6 +21,7 @@
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ktechbyte/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
+| [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktechbyte/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
