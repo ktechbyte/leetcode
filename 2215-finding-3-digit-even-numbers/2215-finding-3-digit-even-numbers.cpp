@@ -22,7 +22,6 @@ public:
             }
             num = 0;
         }
-        // sort(ans.begin(), ans.end());
         return vector<int>(ans.begin(), ans.end());
     }
 };
