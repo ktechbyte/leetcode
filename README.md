@@ -53,6 +53,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/ktechbyte/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -69,6 +70,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktechbyte/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | ------- |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | [0169-majority-element](https://github.com/ktechbyte/leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
