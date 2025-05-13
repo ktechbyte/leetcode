@@ -21,6 +21,7 @@
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ktechbyte/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ktechbyte/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
