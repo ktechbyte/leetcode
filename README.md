@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ktechbyte/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ktechbyte/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ktechbyte/leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ktechbyte/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ktechbyte/leetcode/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ktechbyte/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -177,6 +179,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
