@@ -34,6 +34,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ktechbyte/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ktechbyte/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -71,6 +72,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
@@ -170,6 +172,7 @@
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
