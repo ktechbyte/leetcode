@@ -88,6 +88,7 @@
 | [0007-reverse-integer](https://github.com/ktechbyte/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ktechbyte/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ktechbyte/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ktechbyte/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ktechbyte/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ktechbyte/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
