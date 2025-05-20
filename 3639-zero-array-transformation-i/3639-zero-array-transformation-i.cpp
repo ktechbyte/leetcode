@@ -15,7 +15,7 @@ public:
             operations.push_back(currentOperations);
         }
         for (int i = 0; i < nums.size(); i++) {
-            if (operations[i] < nums[i]) return false;
+            if (operations[i] < nums[i]) return false; // if any operation's value is less than any num's value, it will not be able to make it zero
         }
         return true;
     }
