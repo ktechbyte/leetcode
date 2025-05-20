@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ktechbyte/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ktechbyte/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ktechbyte/leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/ktechbyte/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ktechbyte/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -209,6 +210,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ktechbyte/leetcode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/ktechbyte/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -220,6 +222,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ktechbyte/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ktechbyte/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ktechbyte/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
