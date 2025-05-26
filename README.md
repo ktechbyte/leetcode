@@ -99,6 +99,7 @@
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
+| [2556-convert-the-temperature](https://github.com/ktechbyte/leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktechbyte/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3321-type-of-triangle](https://github.com/ktechbyte/leetcode/tree/master/3321-type-of-triangle) |
