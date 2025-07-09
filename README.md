@@ -56,6 +56,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ktechbyte/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ktechbyte/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ktechbyte/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ktechbyte/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ktechbyte/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 |  |
 | ------- |
