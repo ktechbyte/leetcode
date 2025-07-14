@@ -16,7 +16,7 @@ public:
         // }
         // return ans;
 
-        /*Stack Optimization Approach*/
+        /*Stack Optimization Approach O(2n)*/
         stack<int> st;
         unordered_map<int, int> ump;
         vector<int> ans;
