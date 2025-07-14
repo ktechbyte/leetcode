@@ -24,18 +24,26 @@ public:
         // for(int i = 0; i<n; i++, place--){
         //     ans = ans + arr[i]*pow(2, place);
         // }
-        
+
+        // ListNode* temp = head;
+        // int count = 0, ans = 0;
+        // while(temp->next){
+        //     count++;
+        //     temp = temp->next;
+        // }
+        // temp = head;
+        // while(count>=0){
+        //     ans = ans + (temp->val)*pow(2, count);
+        //     temp = temp->next;
+        //     count--;
+        // }
+        // return ans;
+
         ListNode* temp = head;
-        int count = 0, ans = 0;
+        int ans = temp->val;
         while(temp->next){
-            count++;
             temp = temp->next;
-        }
-        temp = head;
-        while(count>=0){
-            ans = ans + (temp->val)*pow(2, count);
-            temp = temp->next;
-            count--;
+            ans = (ans<<1)|(temp->val);
         }
         return ans;
     }
