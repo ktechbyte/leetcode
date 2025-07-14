@@ -11,7 +11,7 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        // approach with extra space
+        /* approach with extra space */
         // vector<int> arr;
         // ListNode* temp = head;
         // while(temp){
@@ -25,6 +25,7 @@ public:
         //     ans = ans + arr[i]*pow(2, place);
         // }
 
+        /* solution 2 with optimization */
         // ListNode* temp = head;
         // int count = 0, ans = 0;
         // while(temp->next){
@@ -39,6 +40,7 @@ public:
         // }
         // return ans;
 
+        /* most optimised solution using bitwise operation */
         ListNode* temp = head;
         int ans = temp->val;
         while(temp->next){
