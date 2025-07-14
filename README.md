@@ -125,6 +125,7 @@
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/ktechbyte/leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -196,6 +197,7 @@
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ktechbyte/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
