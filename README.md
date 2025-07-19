@@ -221,6 +221,7 @@
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -332,10 +333,16 @@
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ktechbyte/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
