@@ -14,14 +14,15 @@ public:
 
     vector<int> NSER(vector<int> arr) {
         stack<int> st;
-        vector<int> ans;
+        vector<int> ans(arr.size());
         for(int i = arr.size()-1; i>=0; i--){
             while(!st.empty() && arr[st.top()]>=arr[i]) st.pop();
-            if(st.empty()) ans.push_back(arr.size());
-            else ans.push_back(st.top());
+            // if(st.empty()) ans.push_back(arr.size());
+            // else ans.push_back(st.top());
+            ans[i] = st.empty() ? arr.size() : st.top();
             st.push(i);
         }
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         return ans;
     }
 
