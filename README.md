@@ -104,6 +104,7 @@
 | [0782-jewels-and-stones](https://github.com/ktechbyte/leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/ktechbyte/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ktechbyte/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ktechbyte/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ktechbyte/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
