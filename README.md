@@ -32,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -226,6 +227,7 @@
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
@@ -349,6 +351,7 @@
 | [0085-maximal-rectangle](https://github.com/ktechbyte/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
