@@ -51,6 +51,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/ktechbyte/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -138,6 +139,7 @@
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/ktechbyte/leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ktechbyte/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ktechbyte/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ktechbyte/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ktechbyte/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
+| [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
 |  |
 | ------- |
