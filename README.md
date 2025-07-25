@@ -66,6 +66,7 @@
 | [3639-zero-array-transformation-i](https://github.com/ktechbyte/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ktechbyte/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ktechbyte/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ktechbyte/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ktechbyte/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
 | ------- |
