@@ -368,4 +368,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ktechbyte/leetcode/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ktechbyte/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
