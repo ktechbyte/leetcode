@@ -237,6 +237,7 @@
 | [0042-trapping-rain-water](https://github.com/ktechbyte/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ktechbyte/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ktechbyte/leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -386,10 +387,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -400,6 +403,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Segment Tree
 |  |
