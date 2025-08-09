@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/ktechbyte/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ktechbyte/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -275,6 +276,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ktechbyte/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ktechbyte/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ktechbyte/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
