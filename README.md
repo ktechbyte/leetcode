@@ -141,6 +141,7 @@
 | [0069-sqrtx](https://github.com/ktechbyte/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ktechbyte/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ktechbyte/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
@@ -228,6 +230,7 @@
 | [0002-add-two-numbers](https://github.com/ktechbyte/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ktechbyte/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
