@@ -33,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ktechbyte/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ktechbyte/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -280,6 +281,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ktechbyte/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ktechbyte/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ktechbyte/leetcode/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -414,4 +416,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ktechbyte/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ktechbyte/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
