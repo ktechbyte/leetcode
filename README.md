@@ -36,6 +36,7 @@
 | [0494-target-sum](https://github.com/ktechbyte/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/ktechbyte/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/ktechbyte/leetcode/tree/master/0782-jewels-and-stones) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -144,6 +146,7 @@
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
@@ -367,6 +370,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3639-zero-array-transformation-i](https://github.com/ktechbyte/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Design
 |  |
