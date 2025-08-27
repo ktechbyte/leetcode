@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/ktechbyte/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/ktechbyte/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
@@ -285,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ktechbyte/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ktechbyte/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ktechbyte/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/ktechbyte/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ktechbyte/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ktechbyte/leetcode/tree/master/0518-coin-change-ii) |
@@ -412,6 +414,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ktechbyte/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
