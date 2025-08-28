@@ -127,6 +127,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ktechbyte/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ktechbyte/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/ktechbyte/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ktechbyte/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ktechbyte/leetcode/tree/master/3379-score-of-a-string) |
@@ -265,6 +266,7 @@
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/ktechbyte/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ktechbyte/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ktechbyte/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
