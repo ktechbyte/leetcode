@@ -43,10 +43,25 @@ public:
         if(n == 0) return NULL;
         if(n == 1) return lists[0];
 
-        ListNode *head = lists[0];
-        for(int i = 1; i<n; i++)
-            head = merge(head, lists[i]);
-        
-        return head;
+        /*Divide and conquer merge Merge lists[0] with lists[1], lists[2] with lists[3].
+        Then merge results again, halving the number of lists each round O(N*logk)*/
+        while(lists.size() > 1){
+            vector<ListNode*> newLists;
+            for(int i = 0; i<lists.size(); i+=2){
+                if(i + 1 < lists.size())
+                    newLists.push_back(merge(lists[i], lists[i+1]));
+                else 
+                    newLists.push_back(lists[i]);
+            }
+            lists = move(newLists); //moves data: lists gets all items of newLists, newLists becomes empty
+        }
+        return lists[0];
+
+
+        /*Sequential merging taking O(N*K) time*/
+        // ListNode *head = lists[0];
+        // for(int i = 1; i<n; i++)
+        //     head = merge(head, lists[i]);        
+        // return head;
     }
 };
