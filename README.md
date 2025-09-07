@@ -47,6 +47,7 @@
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ktechbyte/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ktechbyte/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
@@ -157,6 +158,7 @@
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/ktechbyte/leetcode/tree/master/1033-broken-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ktechbyte/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2050-count-good-numbers](https://github.com/ktechbyte/leetcode/tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/ktechbyte/leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
