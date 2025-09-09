@@ -309,6 +309,7 @@
 | [0518-coin-change-ii](https://github.com/ktechbyte/leetcode/tree/master/0518-coin-change-ii) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -335,6 +336,7 @@
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ktechbyte/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ktechbyte/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ktechbyte/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -454,4 +456,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ktechbyte/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
