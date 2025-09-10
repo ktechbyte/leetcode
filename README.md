@@ -51,6 +51,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ktechbyte/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktechbyte/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ktechbyte/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ktechbyte/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -97,6 +98,7 @@
 | [0782-jewels-and-stones](https://github.com/ktechbyte/leetcode/tree/master/0782-jewels-and-stones) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ktechbyte/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ktechbyte/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ktechbyte/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -280,6 +282,7 @@
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [1033-broken-calculator](https://github.com/ktechbyte/leetcode/tree/master/1033-broken-calculator) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ktechbyte/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/ktechbyte/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/ktechbyte/leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ktechbyte/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
