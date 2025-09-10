@@ -38,3 +38,21 @@ public:
         return needTeach.size() - maxKnown;
     }
 };
+
+/*
+n = 3
+languages = [[2],[1,3],[1,2],[3]]
+friendships = [[1,4],[1,2],[3,4]]
+Bad friendships: (1,4), (3,4) → needTeach = {1,3,4}.
+
+Check language frequencies:
+
+Lang 1: person 3 → 1
+
+Lang 2: person 1,3 → 2
+
+Lang 3: person 4 → 1
+
+Best choice: teach everyone language 2 → needTeach.size()=3, maxKnown=2.
+Answer = 1.
+*/
