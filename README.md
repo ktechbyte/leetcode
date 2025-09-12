@@ -139,6 +139,7 @@
 | [3194-find-words-containing-character](https://github.com/ktechbyte/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ktechbyte/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/ktechbyte/leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String Matching
 |  |
@@ -172,6 +173,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ktechbyte/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ktechbyte/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/ktechbyte/leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/ktechbyte/leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -465,4 +467,12 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
