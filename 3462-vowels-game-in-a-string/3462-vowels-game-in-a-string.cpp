@@ -9,9 +9,6 @@ public:
             }
         }
         if(count==0) return false;
-        if(count%2!=0) return true;
-        else{
-            return true;
-        }
+        return true;
     }
 };
