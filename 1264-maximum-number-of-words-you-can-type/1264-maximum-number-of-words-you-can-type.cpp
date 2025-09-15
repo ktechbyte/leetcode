@@ -1,10 +1,7 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
-        set<char> st;
-        for (char x : brokenLetters) {
-            st.insert(x);
-        }
+        set<char> st(brokenLetters.begin(), brokenLetters.end());
         int i = 0;
         int count = 0;
         while (i < text.size()) {
