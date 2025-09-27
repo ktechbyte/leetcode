@@ -44,6 +44,7 @@
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -165,6 +166,7 @@
 | [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/ktechbyte/leetcode/tree/master/1033-broken-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -379,6 +381,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/ktechbyte/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Heap (Priority Queue)
 |  |
