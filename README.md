@@ -47,6 +47,7 @@
 | [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ktechbyte/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -168,6 +169,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/ktechbyte/leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/ktechbyte/leetcode/tree/master/1033-broken-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ktechbyte/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ktechbyte/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -242,6 +244,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ktechbyte/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ktechbyte/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -299,6 +302,7 @@
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/ktechbyte/leetcode/tree/master/1033-broken-calculator) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ktechbyte/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
