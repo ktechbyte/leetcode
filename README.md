@@ -462,6 +462,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -471,12 +472,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ktechbyte/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ktechbyte/leetcode/tree/master/0463-island-perimeter) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -485,6 +488,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ktechbyte/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ktechbyte/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Segment Tree
