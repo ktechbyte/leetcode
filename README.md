@@ -148,6 +148,7 @@
 | [3396-valid-word](https://github.com/ktechbyte/leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ktechbyte/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -186,6 +187,7 @@
 | [3321-type-of-triangle](https://github.com/ktechbyte/leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ktechbyte/leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -370,6 +372,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ktechbyte/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ktechbyte/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -529,4 +532,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
