@@ -459,6 +459,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ktechbyte/leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/ktechbyte/leetcode/tree/master/0176-second-highest-salary) |
 ## Tree
 |  |
 | ------- |
