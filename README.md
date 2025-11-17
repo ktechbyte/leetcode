@@ -54,6 +54,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ktechbyte/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ktechbyte/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1656-count-good-triplets](https://github.com/ktechbyte/leetcode/tree/master/1656-count-good-triplets) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ktechbyte/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ktechbyte/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
