@@ -42,6 +42,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ktechbyte/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
