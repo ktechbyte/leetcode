@@ -40,6 +40,7 @@
 | [0503-next-greater-element-ii](https://github.com/ktechbyte/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ktechbyte/leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ktechbyte/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ktechbyte/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -101,6 +102,7 @@
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ktechbyte/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ktechbyte/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/ktechbyte/leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ktechbyte/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ktechbyte/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ktechbyte/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3639-zero-array-transformation-i](https://github.com/ktechbyte/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Design
 |  |
