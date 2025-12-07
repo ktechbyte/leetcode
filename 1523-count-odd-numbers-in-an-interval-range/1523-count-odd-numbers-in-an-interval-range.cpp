@@ -17,7 +17,7 @@ public:
         //     return (high - low)/2;
         // }
 
-        // ---- METHOD - 2 --------
+        // ---- METHOD - 3 --------
         int n = (high - low + 1);
         if(n%2==0) return n/2;
         if(low%2!=0 || high%2!=0) return n/2 + 1;
