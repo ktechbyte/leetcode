@@ -8,11 +8,9 @@ public:
         // return count;
         if(low%2!=0 && high%2!=0){
             return (high-low)/2 + 1;
-        } else if(low%2!=0 && high%2==0){
+        } else if((low%2!=0 && high%2==0) || (low%2==0 && high%2!=0)){
             return (high+1 - low)/2;
-        } else if(low%2==0 && high%2!=0){
-            return (high+1 - low)/2;
-        }else{
+        } else{
             return (high - low)/2;
         }
     }
