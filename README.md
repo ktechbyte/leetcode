@@ -480,6 +480,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/ktechbyte/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ktechbyte/leetcode/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/ktechbyte/leetcode/tree/master/0184-department-highest-salary) |
 | [1837-daily-leads-and-partners](https://github.com/ktechbyte/leetcode/tree/master/1837-daily-leads-and-partners) |
 ## Tree
 |  |
