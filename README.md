@@ -51,6 +51,7 @@
 | [0739-daily-temperatures](https://github.com/ktechbyte/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/ktechbyte/leetcode/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/ktechbyte/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ktechbyte/leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ktechbyte/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -241,6 +242,7 @@
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ktechbyte/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ktechbyte/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/ktechbyte/leetcode/tree/master/3790-fruits-into-baskets-ii) |
