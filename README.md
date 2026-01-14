@@ -37,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/ktechbyte/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ktechbyte/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ktechbyte/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ktechbyte/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
@@ -229,6 +230,7 @@
 | [0189-rotate-array](https://github.com/ktechbyte/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ktechbyte/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ktechbyte/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ktechbyte/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
@@ -248,6 +250,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ktechbyte/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ktechbyte/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ktechbyte/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/ktechbyte/leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ktechbyte/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -260,6 +263,7 @@
 | [0136-single-number](https://github.com/ktechbyte/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ktechbyte/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ktechbyte/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
