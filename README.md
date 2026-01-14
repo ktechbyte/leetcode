@@ -75,6 +75,7 @@
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ktechbyte/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ktechbyte/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ktechbyte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ktechbyte/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ktechbyte/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -232,6 +233,7 @@
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/ktechbyte/leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/ktechbyte/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ktechbyte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ktechbyte/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ktechbyte/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -399,6 +401,7 @@
 | [2048-build-array-from-permutation](https://github.com/ktechbyte/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ktechbyte/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ktechbyte/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ktechbyte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ktechbyte/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ktechbyte/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ktechbyte/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
