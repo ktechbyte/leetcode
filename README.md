@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/ktechbyte/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ktechbyte/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ktechbyte/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ktechbyte/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ktechbyte/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ktechbyte/leetcode/tree/master/0056-merge-intervals) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ktechbyte/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ktechbyte/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ktechbyte/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ktechbyte/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ktechbyte/leetcode/tree/master/0085-maximal-rectangle) |
@@ -416,6 +418,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ktechbyte/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ktechbyte/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ktechbyte/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
 ## Matrix
