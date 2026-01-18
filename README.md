@@ -134,6 +134,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ktechbyte/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ktechbyte/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3803-count-residue-prefixes](https://github.com/ktechbyte/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ktechbyte/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -168,6 +169,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/ktechbyte/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ktechbyte/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ktechbyte/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3803-count-residue-prefixes](https://github.com/ktechbyte/leetcode/tree/master/3803-count-residue-prefixes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ktechbyte/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
