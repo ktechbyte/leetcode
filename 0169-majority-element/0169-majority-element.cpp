@@ -17,6 +17,7 @@ public:
             }
         }
 
+        // validation
         cnt = 0;
         for(int x : nums){
             if(x==el) cnt++;
