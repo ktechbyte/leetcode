@@ -66,6 +66,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/ktechbyte/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ktechbyte/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ktechbyte/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ktechbyte/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ktechbyte/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -274,6 +275,7 @@
 | [0231-power-of-two](https://github.com/ktechbyte/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ktechbyte/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ktechbyte/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ktechbyte/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ktechbyte/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2621-find-xor-beauty-of-array](https://github.com/ktechbyte/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 ## Sorting
@@ -293,6 +295,7 @@
 | [0611-valid-triangle-number](https://github.com/ktechbyte/leetcode/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/ktechbyte/leetcode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/ktechbyte/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ktechbyte/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ktechbyte/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ktechbyte/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ktechbyte/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -402,6 +405,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ktechbyte/leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ktechbyte/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ktechbyte/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/ktechbyte/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ktechbyte/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ktechbyte/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
